@@ -1,0 +1,42 @@
+Stage0  Stage1      Stage2  Stage3      Stage4
+idea    Proposal    Draft   Candidate   Ready
+
+ES6 en el año 2015
+Defaul params - parameros por defecto
+Template literal
+let, conts
+spred operator
+Destructuring
+Arrow function
+promesas
+parametros en objetos 
+clases
+modulos
+generadores
+
+
+ES7 en el año 2016
+includes
+operador de exponenciacion
+
+
+ES8 en el año 2017
+Asyn function (async await)
+object entries
+object values
+string padding (padStart  padEnd)
+
+ES9 en el año 2018
+Rest / spred propieties
+promise finally
+regEXP name capture groups
+
+ES10 en el año 2019
+
+array.flat
+array.flatMap
+Optinal cath Binding
+formEntries
+trimStart
+trimEnd
+Symbol(Objeto)
